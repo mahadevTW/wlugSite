@@ -1,0 +1,1 @@
+cp -R ~/Desktop/My\ Data/WlugsIte   /Applications/XAMPP/htdocs
