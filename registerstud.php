@@ -4,7 +4,7 @@ include "header.html"
     <html>
     <body>
    <div class="page-header">
-        <h1 style= "margin: 2%">Techno-Tweet 2k16</h1>
+        <h1 style="margin: 2%;font-family: 'Lobster', cursive; color: teal">Techno-Tweet 2k16</h1>
     </div>
 
    <div class="panel panel-success">

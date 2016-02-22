@@ -2,7 +2,7 @@
 include "header.html";
 ?>
     <div class="page-header">
-        <h1 style="margin: 2%">Techno-Tweet 2k16 &nbsp;&nbsp; <a href="technotweet.php">Go Back To Techno-Tweet page</a> </h1>
+        <h1 style="margin: 2%;font-family: 'Lobster', cursive; color: teal">Techno-Tweet 2k16 &nbsp;&nbsp; <a href="technotweet.php">Go Back To Techno-Tweet page</a> </h1>
     </div>
 <?php
 include "connect.php";
